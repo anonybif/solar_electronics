@@ -16,7 +16,7 @@ function Contact() {
                             <h6 className="contact-type">Support and Sales</h6>
                             <h5 id="contact-num">(255) 352-6258</h5>
                             <h6 className="contact-type mt-4">Email</h6>
-                            <a href="mailto:solar@electronics.net" className="link">
+                            <a href="mailto:anony.bif24@gmail.com" className="link">
                                 solar@electronics.net</a>
                             <h6 className="contact-type mt-4">Shop</h6>
                             <p>1234 Divi St. #1000 San Francisco, CA 33945</p>

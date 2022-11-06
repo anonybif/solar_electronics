@@ -426,10 +426,10 @@
    
 }
 
-.brand_img:hover{
+/* .brand_img:hover{
     transform: scale(1.1);
     transition: ease-in-out 0.2ns;
-}
+} */
 
 #hp_logo{
     width: 60px;
