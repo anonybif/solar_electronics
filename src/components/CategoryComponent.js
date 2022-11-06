@@ -1,7 +1,5 @@
 import React from "react";
 import { Button, Card, CardBody, CardImg, CardSubtitle, CardTitle } from "reactstrap";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faCamera } from '@fortawesome/fontawesome-free-solid';
 
 function Category() {
     return (
