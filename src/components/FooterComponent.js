@@ -43,7 +43,11 @@ function Footer() {
             <div className="divider"></div>
             <div className="row justify-content-center">
                 <div className="col-auto">
-                    <p>© Copyright 2022 Solar Electronics</p>
+                    <p>© Copyright 2023 Solar Electronics</p>
+
+                </div>
+                <div className="col-auto">
+                    <p>Developed by Biftu Solomon</p>
                 </div>
             </div>
         </div>

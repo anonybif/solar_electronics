@@ -36,32 +36,35 @@ function Contact() {
                 <h1 className="col-11 offset-1 mt-5"><strong>FAQ</strong></h1>
                 <div className="col-11 col-md-5 offset-1 mt-4">
                     <h5><strong>
-                        Curabitur aliquet ispum dolor amet sit pellentesqu?
+                        What products does your electronics shop offer?
                     </strong></h5>
-                    <p>Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae</p>
+                    <p>Our shop offers a wide range of electronic devices, including smartphones, laptops, tablets, gaming consoles, televisions, cameras, audio systems, wearable devices, and various accessories.
+                    </p>
                     <h5><strong>
-                        Pellentesque in ipsum id orci porta dapibus?
+                        Are your products brand new or refurbished?
                     </strong></h5>
-                    <p>Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae</p>
+                    <p>We sell both brand new and refurbished products. Refurbished items go through a rigorous testing process to ensure they meet high-quality standards before being offered for sale.
+                    </p>
                     <h5><strong>
-                        Nulla porttitor accumsan tincidunt?
+                        What payment methods do you accept?
                     </strong></h5>
-                    <p>Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae</p>
+                    <p>We accept various payment methods, including credit/debit cards (Visa, MasterCard, American Express), PayPal, and cash payments at our physical store (if applicable).
+                    </p>
                 </div>
 
                 <div className="col-11 col-md-5 offset-1 mt-md-4">
                     <h5><strong>
-                        Lorem ipsum dolor sit amet, consectetur?
+                        Do you offer warranty for your products?
                     </strong></h5>
-                    <p>Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae</p>
+                    <p>Yes, all brand new electronics come with a standard manufacturer's warranty. Refurbished items may also have a limited warranty provided by our shop. Please check the product listings or speak to our customer support for specific warranty details.
+                    </p>
                     <h5><strong>
-                        Curabitur non nulla sit amet nisl tempus?
+                        How can I contact your customer support for further assistance?
                     </strong></h5>
-                    <p>Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae</p>
-                    <h5><strong>
-                        Potenti neque scelerisque augue nec phasellus?
-                    </strong></h5>
-                    <p>Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae</p>
+                    <p>You can reach our customer support via phone, email, or through the contact form on our website. Our dedicated support team is ready to assist you with any queries or concerns you may have.
+                    </p>
+                    <h6>
+                        Remember, if you have any specific questions or need further assistance, feel free to reach out to us directly.</h6>
                 </div>
             </div>
         </div>

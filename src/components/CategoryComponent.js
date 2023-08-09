@@ -18,7 +18,7 @@ function Category() {
                                     10% OFF BLUETOOTH HEADPHONES
                                 </CardTitle>
                                 <CardSubtitle >
-                                    Mauris blandit aliquet elit, eget tincidunt nibh pulvinar
+                                    Wireless freedom and immersive audio for untethered listening experiences.
                                 </CardSubtitle>
                                 <Button id="shop_btn">Shop Now</Button>
                             </CardBody>

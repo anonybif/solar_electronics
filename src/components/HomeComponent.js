@@ -13,7 +13,7 @@ function Home() {
                                 Solar Electronics Store
                             </CardTitle>
                             <CardSubtitle >
-                                Mauris blandit aliquet elit, eget tincidunt nibh pulvinar
+                                Power your world with Solar: Illuminating Future Tech!
                             </CardSubtitle>
                             <Button id="shop_btn">Shop Now</Button>
                         </CardBody>
