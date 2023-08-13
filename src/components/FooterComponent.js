@@ -31,12 +31,12 @@ function Footer() {
                 <div className="col-12 col-sm-4 socialmedia" >
                     <h5 id="follow">Follow</h5>
                     <div>
-                        <a className="btn" href="http://google.com/+"><i className="fa fa-google-plus" ></i></a>
-                        <a className="btn" href="http://www.facebook.com/profile.php?id="><i className="fa fa-facebook"></i></a>
-                        <a className="btn" href="http://www.linkedin.com/in/"><i className="fa fa-linkedin"></i></a>
-                        <a className="btn" href="http://twitter.com/"><i className="fa fa-twitter"></i></a>
-                        <a className="btn" href="http://youtube.com/"><i className="fa fa-youtube"></i></a>
-                        <a className="btn" href="mailto:"><i className="fa fa-envelope o"></i></a>
+                        <a className="btn socialbtn" href="http://google.com/+"><i className="fa fa-google-plus" ></i></a>
+                        <a className="btn socialbtn" href="http://www.facebook.com/profile.php?id="><i className="fa fa-facebook"></i></a>
+                        <a className="btn socialbtn" href="http://www.linkedin.com/in/"><i className="fa fa-linkedin"></i></a>
+                        <a className="btn socialbtn" href="http://twitter.com/"><i className="fa fa-twitter"></i></a>
+                        <a className="btn socialbtn" href="http://youtube.com/"><i className="fa fa-youtube"></i></a>
+                        <a className="btn socialbtn" href="mailto:"><i className="fa fa-envelope o"></i></a>
                     </div>
                 </div>
             </div>
